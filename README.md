@@ -12,7 +12,7 @@ Tech specs:
 - 500mAh 3.7V battery
 - Arduino IDE
 
-1. Make sure your Arduino IDE has the proper libraries and packages needed to use the ESP32. (helpful video [here]()). 
+1. Make sure your Arduino IDE has the proper libraries and packages needed to use the ESP32 (helpful video [here](https://www.youtube.com/watch?v=adLUgmCJKnM)). 
 2. Download and open [poem.ino](poem.ino).
 3. Upload to your device and enjoy!
 
