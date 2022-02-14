@@ -5,7 +5,7 @@ This project uses an ESP32 and the Arduino IDE to generatively display Heather C
 ![](poem.gif)
 
 
-### Reproduction
+## Reproduction
 Tech specs: 
 - [TTGO T-Display ESP32 WiFi BLE](https://www.amazon.com/LILYGO-T-Display-Arduino-Development-CH9102F/dp/B099MPFJ9M)
 - 500mAh 3.7V battery
