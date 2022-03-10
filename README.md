@@ -4,7 +4,7 @@ This project uses an ESP32 and the Arduino IDE to generatively display Heather C
 <br>
 ![](poem.gif)
 
-See video documentation and in-depth explanation [here](). 
+See video documentation and in-depth explanation [here](https://ryurongliu.github.io/poem-art/). 
 
 ## Reproduction
 Tech specs: 
